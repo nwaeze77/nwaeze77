@@ -5,7 +5,7 @@ I'm a Software Engineer, Cloud Engineer and Data Scientist. I'm passionate about
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at Brigham Young University Idaho [School of Software Engineering]) Class of 2024.
+- 💡 Fun fact: I'm currently studying at Brigham Young University Idaho [School of Software Engineering] Class of 2024.
 - 💡 I studied at AltSchool Africa [School of Cloud Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m currently learning Data Science and Software Engineering.
 - 😊 I’m looking for help with internships, and entry-level opportunities.
