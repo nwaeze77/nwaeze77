@@ -1,14 +1,15 @@
 # Hello there; welcome 👋🏾
 
-I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at [). I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my [Newsletter],[YouTube] build useful [open-source projects],build technical communities...
+I'm a Software Engineer, Cloud Engineer and Data Scientist. I'm passionate about Tech and sharing knowledge, documentation, web engineering, Jamstack and others.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, gitbash and Cloud Engineering.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, cloud Engineer, or UI Engineer (Intern or Junior level).
+- 💡 Fun fact: I'm currently studying at Brigham Young University Idaho [School of Software Engineering]) Class of 2024.
+- 💡 I studied at AltSchool Africa [School of Cloud Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
+- 🌱 I’m currently learning Data Science and Software Engineering.
+- 😊 I’m looking for help with internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Data Scientist or cloud Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing wannesk1@gmail.com.
 
 ---
